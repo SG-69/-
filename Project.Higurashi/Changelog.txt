@@ -1,0 +1,10 @@
+# v2.0.0.4 - [2023.01.09]
+ - Added Griefing > Script Events > Kick From Interior
+ - Added Session Malicious > Crash Session > Indecent Exposure
+ - Added Utilities > Feature Searcher
+ - Fixed Explode Options
+ - Fixed typos
+ - Improved V2 Rocket
+ - Updated Explode Options
+ - Updated Crash/Kick Events
+ - Updated sep.cfg
