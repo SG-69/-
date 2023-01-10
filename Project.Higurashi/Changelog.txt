@@ -1,5 +1,6 @@
-# v2.0.0.4 - [2023.01.09]
+# v2.0.0.5 - [2023.01.10]
  - Added Griefing > Script Events > Kick From Interior
+ - Added Session Griefing > Kick From Interior
  - Added Session Malicious > Crash Session > Indecent Exposure
  - Added Utilities > Feature Searcher
  - Fixed Explode Options
