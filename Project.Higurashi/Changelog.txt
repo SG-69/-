@@ -1,11 +1,15 @@
-# v2.0.0.5 - [2023.01.10]
+# v2.0.1.0 - [2023.01.12]
  - Added Griefing > Script Events > Kick From Interior
  - Added Session Griefing > Kick From Interior
  - Added Session Malicious > Crash Session > Indecent Exposure
  - Added Utilities > Feature Searcher
  - Fixed Explode Options
- - Fixed typos
- - Improved V2 Rocket
+ - Fixed Typos
+ - Improved Ion Cannon
+ - Improved Auto Updater
  - Updated Explode Options
  - Updated Crash/Kick Events
+ - Updated Script Notify
  - Updated sep.cfg
+ - Removed Simeon Notifcations
+ - Removed Reload Textures
