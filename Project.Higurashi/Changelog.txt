@@ -6,6 +6,7 @@
  - Fixed Explode Options
  - Fixed Typos
  - Improved Ion Cannon
+ - Improved Delete Menu / Script Logs
  - Improved Auto Updater
  - Updated Explode Options
  - Updated Crash/Kick Events
