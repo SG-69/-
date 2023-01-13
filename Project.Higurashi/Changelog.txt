@@ -1,4 +1,4 @@
-# v2.0.1.0 - [2023.01.12]
+# v2.0.1.1 - [2023.01.12]
  - Added Griefing > Script Events > Kick From Interior
  - Added Session Griefing > Kick From Interior
  - Added Session Malicious > Crash Session > Indecent Exposure
