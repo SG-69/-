@@ -9,8 +9,6 @@ local file_paths = {
     scriptevents = appdata_path .. "\\scripts\\Project.Higurashi\\datas\\HigurashiScriptEvents.lua",
     vehs = appdata_path .. "\\scripts\\Project.Higurashi\\datas\\HigurashiVehicles.lua",
     weapons = appdata_path .. "\\scripts\\Project.Higurashi\\datas\\HigurashiWeapons.lua",
-    --changelog = appdata_path .. "\\scripts\\Project.Higurashi\\Changelog.txt",
-    --version = appdata_path .. "\\scripts\\Project.Higurashi\\Version.txt",
     sep = appdata_path .. "\\cfg\\sep.cfg"
 }
 
@@ -22,8 +20,6 @@ local files = {
     scriptevents = [[https://raw.githubusercontent.com/SG-69/-/main/Project.Higurashi/datas/HigurashiScriptEvents.lua]],
     vehs = [[https://raw.githubusercontent.com/SG-69/-/main/Project.Higurashi/datas/HigurashiVehicles.lua]],
     weapons = [[https://raw.githubusercontent.com/SG-69/-/main/Project.Higurashi/datas/HigurashiWeapons.lua]],
-    --changelog = [[https://raw.githubusercontent.com/SG-69/-/main/Project.Higurashi/Changelog.txt]],
-    --version = [[https://raw.githubusercontent.com/SG-69/-/main/Project.Higurashi/Version.txt]],
     sep = [[https://raw.githubusercontent.com/SG-69/-/main/sep.cfg]]
 }
 
