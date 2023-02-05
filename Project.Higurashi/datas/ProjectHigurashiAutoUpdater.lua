@@ -4,22 +4,28 @@ local appdata_path = utils.get_appdata_path("PopstarDevs", "2Take1Menu")
 local file_paths = {
     higurashimenu = appdata_path .. "\\scripts\\ProjectHigurashi.lua",
     essential = appdata_path .. "\\scripts\\Project.Higurashi\\datas\\Higurashi.lua",
+    discordhandler = appdata_path .. "\\scripts\\Project.Higurashi\\datas\\HigurashiDiscordHandler.lua",
     natives = appdata_path .. "\\scripts\\Project.Higurashi\\datas\\HigurashiNatives.lua",
     netevents = appdata_path .. "\\scripts\\Project.Higurashi\\datas\\HigurashiNetEvents.lua",
     scriptevents = appdata_path .. "\\scripts\\Project.Higurashi\\datas\\HigurashiScriptEvents.lua",
     vehs = appdata_path .. "\\scripts\\Project.Higurashi\\datas\\HigurashiVehicles.lua",
     weapons = appdata_path .. "\\scripts\\Project.Higurashi\\datas\\HigurashiWeapons.lua",
+    --changelog = appdata_path .. "\\scripts\\Project.Higurashi\\Changelog.txt",
+    --version = appdata_path .. "\\scripts\\Project.Higurashi\\Version.txt",
     sep = appdata_path .. "\\cfg\\sep.cfg"
 }
 
 local files = {
     higurashimenu = [[https://raw.githubusercontent.com/SG-69/-/main/ProjectHigurashi.lua]],
     essential = [[https://raw.githubusercontent.com/SG-69/-/main/Project.Higurashi/datas/Higurashi.lua]],
+    discordhandler = [[https://raw.githubusercontent.com/SG-69/-/main/Project.Higurashi/datas/HigurashiDiscordHandler.lua]],
     natives = [[https://raw.githubusercontent.com/SG-69/-/main/Project.Higurashi/datas/HigurashiNatives.lua]],
     netevents = [[https://raw.githubusercontent.com/SG-69/-/main/Project.Higurashi/datas/HigurashiNetEvents.lua]],
     scriptevents = [[https://raw.githubusercontent.com/SG-69/-/main/Project.Higurashi/datas/HigurashiScriptEvents.lua]],
     vehs = [[https://raw.githubusercontent.com/SG-69/-/main/Project.Higurashi/datas/HigurashiVehicles.lua]],
     weapons = [[https://raw.githubusercontent.com/SG-69/-/main/Project.Higurashi/datas/HigurashiWeapons.lua]],
+    --changelog = [[https://raw.githubusercontent.com/SG-69/-/main/Project.Higurashi/Changelog.txt]],
+    --version = [[https://raw.githubusercontent.com/SG-69/-/main/Project.Higurashi/Version.txt]],
     sep = [[https://raw.githubusercontent.com/SG-69/-/main/sep.cfg]]
 }
 
