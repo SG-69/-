@@ -1,2 +1,2 @@
-# v2.0.2.0 - [2023.01.28]
+# v2.0.2.5 - [2023.01.28]
 > - Updated for latest game version v2824 1.66
