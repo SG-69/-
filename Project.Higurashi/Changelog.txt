@@ -1,2 +1,20 @@
-# v2.0.5.1 - [2023.02.18]
-- You are gay
+# v2.0.6.0 - [2023.02.28]
+- Added Self > Miscellaneous > Shinobi Footsteps
+- Added Friendly > Give Script Host
+- Added Friendly > Drop Health
+- Added Friendly > Drop Armor
+- Added Friendly > Vehicle > Boost Pad
+- Added Friendly > Vehicle > Slow Pad
+- Added Griefing > Script Events > Send To Flight School
+- Added Malicious > Send Custom Script Events
+- Added Malicious > Crash > L Bozo
+- Updated Griefing > Vehicle > Kick From Vehicle
+- Updated Malicious > Crash > 9 Gen (Next Gen)
+- Updated Malicious > Crash > Kamukaze BBQ
+- Improved Self > Health > God Mode
+- Improved Friendly > Steal Outfit
+- Improved Griefing > Send Assassins
+- Improved Griefing > Vehicle > Hijack Vehicle
+- Improved Griefing > Vehicle > Kick From Vehicle
+- Fixed hint typo
+- Fixed minor bug
